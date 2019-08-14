@@ -211,11 +211,24 @@
       "DesignPattern.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DesignPatterns.Model": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/DesignPattern.Repository.dll": {}
         },
         "runtime": {
           "bin/placeholder/DesignPattern.Repository.dll": {}
+        }
+      },
+      "DesignPatterns.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DesignPatterns.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatterns.Model.dll": {}
         }
       }
     }
@@ -693,6 +706,11 @@
       "type": "project",
       "path": "../DesignPattern.Repository/DesignPattern.Repository/DesignPattern.Repository.csproj",
       "msbuildProject": "../DesignPattern.Repository/DesignPattern.Repository/DesignPattern.Repository.csproj"
+    },
+    "DesignPatterns.Model/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatterns.Model/DesignPatterns.Model/DesignPatterns.Model.csproj",
+      "msbuildProject": "../DesignPatterns.Model/DesignPatterns.Model/DesignPatterns.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {

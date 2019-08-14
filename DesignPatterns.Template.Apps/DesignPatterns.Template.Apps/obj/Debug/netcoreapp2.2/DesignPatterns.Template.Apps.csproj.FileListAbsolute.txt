@@ -1,0 +1,16 @@
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.deps.json
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.runtimeconfig.json
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.runtimeconfig.dev.json
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.dll
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.pdb
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.dll
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.dll
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.pdb
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.pdb
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.csprojAssemblyReference.cache
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.csproj.CoreCompileInputs.cache
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.AssemblyInfoInputs.cache
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.AssemblyInfo.cs
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.csproj.CopyComplete
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.dll
+G:\MyCode\DesignPatterns\DesignPatterns.Template.Apps\DesignPatterns.Template.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Template.Apps.pdb

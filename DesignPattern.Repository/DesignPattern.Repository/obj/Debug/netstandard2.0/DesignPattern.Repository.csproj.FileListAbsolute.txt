@@ -7,3 +7,6 @@ G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\obj\D
 G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\obj\Debug\netstandard2.0\DesignPattern.Repository.AssemblyInfo.cs
 G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\obj\Debug\netstandard2.0\DesignPattern.Repository.dll
 G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\obj\Debug\netstandard2.0\DesignPattern.Repository.pdb
+G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\bin\Debug\netstandard2.0\DesignPatterns.Model.dll
+G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\bin\Debug\netstandard2.0\DesignPatterns.Model.pdb
+G:\MyCode\DesignPatterns\DesignPattern.Repository\DesignPattern.Repository\obj\Debug\netstandard2.0\DesignPattern.Repository.csproj.CopyComplete
