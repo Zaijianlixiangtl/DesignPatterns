@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "DesignPatterns.Decorator.Apps/1.0.0": {
+        "dependencies": {
+          "DesignPattern.Repository": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.Decorator.Apps.dll": {}
+        }
+      },
+      "DesignPattern.Repository/1.0.0": {
+        "dependencies": {
+          "DesignPatterns.Model": "1.0.0"
+        },
+        "runtime": {
+          "DesignPattern.Repository.dll": {}
+        }
+      },
+      "DesignPatterns.Model/1.0.0": {
+        "runtime": {
+          "DesignPatterns.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns.Decorator.Apps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPattern.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatterns.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

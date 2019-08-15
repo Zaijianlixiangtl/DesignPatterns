@@ -1,0 +1,16 @@
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.deps.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.runtimeconfig.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.runtimeconfig.dev.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.csprojAssemblyReference.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.csproj.CoreCompileInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.AssemblyInfoInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.AssemblyInfo.cs
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.csproj.CopyComplete
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Proxy.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Proxy.Apps.pdb
