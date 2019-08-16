@@ -1,0 +1,14 @@
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.deps.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.runtimeconfig.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.runtimeconfig.dev.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.csprojAssemblyReference.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.csproj.CoreCompileInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.AssemblyInfoInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.AssemblyInfo.cs
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.csproj.CopyComplete
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Bridge.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Bridge.Apps.pdb

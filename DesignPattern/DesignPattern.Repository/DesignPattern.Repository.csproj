@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="AbstractFactory\" />
+    <Folder Include="bridge\" />
   </ItemGroup>
 
   <ItemGroup>
