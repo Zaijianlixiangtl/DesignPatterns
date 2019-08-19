@@ -1,0 +1,16 @@
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.deps.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.runtimeconfig.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.runtimeconfig.dev.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.csproj.CoreCompileInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.AssemblyInfoInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.AssemblyInfo.cs
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.csprojAssemblyReference.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.csproj.CopyComplete
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Facade.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Facade.Apps.pdb

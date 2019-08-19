@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Proxy.Apps",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Decorator.Apps", "DesignPatterns.Decorator.Apps\DesignPatterns.Decorator.Apps.csproj", "{15978F4C-AF1D-4FC8-84F8-58131DACF277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Bridge.Apps", "DesignPatterns.Bridge.Apps\DesignPatterns.Bridge.Apps.csproj", "{50FB7CE8-DC6A-40D9-BA7A-1AD5831B99F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Bridge.Apps", "DesignPatterns.Bridge.Apps\DesignPatterns.Bridge.Apps.csproj", "{50FB7CE8-DC6A-40D9-BA7A-1AD5831B99F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Facade.Apps", "DesignPatterns.Facade.Apps\DesignPatterns.Facade.Apps.csproj", "{C37FDA11-7445-4117-AFA9-EFFE1E8B50B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{50FB7CE8-DC6A-40D9-BA7A-1AD5831B99F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50FB7CE8-DC6A-40D9-BA7A-1AD5831B99F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50FB7CE8-DC6A-40D9-BA7A-1AD5831B99F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37FDA11-7445-4117-AFA9-EFFE1E8B50B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37FDA11-7445-4117-AFA9-EFFE1E8B50B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37FDA11-7445-4117-AFA9-EFFE1E8B50B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37FDA11-7445-4117-AFA9-EFFE1E8B50B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
