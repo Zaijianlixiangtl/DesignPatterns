@@ -1,0 +1,16 @@
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.deps.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.runtimeconfig.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.runtimeconfig.dev.json
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPattern.Repository.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\bin\Debug\netcoreapp2.2\DesignPatterns.Model.pdb
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.csprojAssemblyReference.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.csproj.CoreCompileInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.AssemblyInfoInputs.cache
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.AssemblyInfo.cs
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.csproj.CopyComplete
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.dll
+G:\MyCode\DesignPatterns\DesignPattern\DesignPatterns.Command.Apps\obj\Debug\netcoreapp2.2\DesignPatterns.Command.Apps.pdb
